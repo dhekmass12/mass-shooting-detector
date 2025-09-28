@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+train/
+train_svm/
+validation/
+validation_svm/
+test/
+test_svm/
+
+train.txt
+validation.txt
+test.txt
+submission_svm.txt
