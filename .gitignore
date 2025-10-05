@@ -212,6 +212,9 @@ validation/
 validation_svm/
 test/
 test_svm/
+train_raw/
+validation_raw/
+test_raw/
 
 train.txt
 validation.txt
