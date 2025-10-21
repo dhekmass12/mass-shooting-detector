@@ -220,3 +220,13 @@ train.txt
 validation.txt
 test.txt
 submission_svm.txt
+
+backsound/
+test/
+test_audio/
+train/
+train_2/
+train_3/
+train_audio/
+train_audio_2/
+train_audio_3/
