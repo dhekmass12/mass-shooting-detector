@@ -230,3 +230,7 @@ train_3/
 train_audio/
 train_audio_2/
 train_audio_3/
+
+from_scratch.keras
+crowd_model.keras
+energy_model.keras
